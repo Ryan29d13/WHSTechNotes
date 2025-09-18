@@ -1,2 +1,6 @@
 # September 2, 2025
 the cell phone ban is horrible since there was a school in texas in austin were there was a stabing and the last people to know were the parents because the school didnt want to get in trouble
+# September 8, 2025
+computer since has changed a lot of lives out there
+# September 15, 2025
+An AI-powered nutrition assistant would analyze a user's food diary and dietary restrictions to provide personalized and healthy meal suggestions. The project would meet requirements by using natural language processing (NLP) to interpret user entries and leveraging machine learning to build a recommendation engine based on nutritional data. This would be useful because it empowers people to make informed, healthier food choices by offering guidance tailored to their specific needs and goals, such as managing weight or allergies, without the need for constant human oversight. It would help people with dietary restrictions discover suitable recipes, and provide busy individuals with convenient, healthy options, thereby improving their overall well-being and simplifying meal planning. This project would transform everyday eating from a point of stress into a streamlined, health-conscious, and personalized experience.

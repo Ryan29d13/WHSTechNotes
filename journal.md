@@ -16,3 +16,6 @@ https://www.canva.com/design/DAG4neBCSy8/rW6Pb84V5uMBRt6WYjEJCQ/edit?utm_content
 Markdown Table
 # November 17, 2025
 i am looking for a whoooole lot of food and get very very fat 
+# December 1, 2025
+one job that uses drones is amazon. the programers codes the drone to follow simple instructions. the pay raise is 20-28$ USD per hour. official credential that verifies a pilot has the necessary knowledge and skills to operate a drone for commercial purposes. It requires passing a test on topics like regulations, weather, and airspace, and is a legal requirement for anyone making money or conducting business with a drone. Yes I would take this jobe since it pays well and might be easy to learn.
+

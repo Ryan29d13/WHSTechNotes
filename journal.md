@@ -25,5 +25,10 @@ To address this safety concern, a crucial area for improvement would be to enhan
 Have a fun time during my break!!!!!!!
 # january 6, 2026
 i used my ps4 controller to send movment commands at my ps4 to also send video commands to thetv via hdmi to play games
-#January 12, 2026
+# January 12, 2026
 Autcraft was created by Stuart Duncan in 2013 as a dedicated Minecraft server to protect autistic children and their families from the bullying and exclusion often found on public platforms. Safe spaces are essential because unmoderated environments can expose neurodivergent players to severe harms, including harassment, social isolation, and sensory overload. To mitigate these risks, Autcraft employs a "whitelist" application process and tracks every in-game action, ensuring a predictable and respectful experience. Developers have a responsibility to design these protective systems—such as clear reporting tools and active moderation—because leaving safety entirely to users can lead to toxic cultures where vulnerable groups are pushed out. If developers ignore these duties, platforms risk becoming breeding grounds for discrimination that can have lasting negative impacts on a player's mental health. Beyond Autcraft, other inclusive initiatives like genU GAMER and various serious games provide structured environments where neurodivergent individuals can build social skills safely. These intentional design choices demonstrate that online kindness is not accidental but is built through proactive oversight. 
+# january 29, 2026
+For MAP/TSI:
+The test I took was the MAP, and I feel good about my performance because I took my time. I did well on reading comprehension, but the math section felt challenging. I think test prep would help me next time because it would make me more familiar with the question formats.
+For Seniors:
+I have taken the ACT, but I have not reached my goal score yet. I think I could improve by practicing timed drills. Test prep would be helpful because it would give me more confidence and better strategies for the harder questions.

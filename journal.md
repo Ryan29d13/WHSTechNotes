@@ -42,3 +42,24 @@ i enjoy whatching football but not alone but with friends, also i knew the sea h
 # February 23, 2026
 I believe the most important technology used in the 2026 Winter Olympics was high-speed motion tracking. This technology had the biggest impact on fairness because it gave judges a way to see exactly what happened in a race or a jump without having to guess.
 This technology was used when athletes competed in figure skating. Tiny sensors were sometimes placed on the skates, and high-speed cameras watched every move. For example, when a skater performed a "Quadruple Jump" (four spins in the air), the computer could instantly count the rotations and measure how high the athlete jumped. It was also used in Short Track Speed Skating to see exactly whose skate crossed the finish line first during a photo finish. This affected the competition because it made the results more accurate. In the past, a judge might make a mistake because the athletes move so fast. Now, the technology provides "proof" so the right person wins the gold medal. However, a concern is that this tech is very expensive. If only the rich countries can afford to practice with these sensors, it might be unfair to athletes from smaller, poorer countries. I think there should be limits on technology. The Olympics should be about which human is the fastest or strongest, not which country has the best computer scientists. If we let technology do all the work, it becomes a contest between machines instead of a contest between people. We should use tech to keep things fair, but we shouldn't let it "play the game" for the athletes.
+# March 2, 2026
+Jobs 1
+Company: H-E-B Digital
+Job Title: Software Engineer (Backend)
+Education Required: Bachelor’s degree in Computer Science or just being really good at coding (equivalent experience).
+Experience Required: About 2 years of working on real software.
+Skills / Tools / Languages: Java or Python, working with "the Cloud" (GCP), and managing databases.
+Certifications: None required, but they like seeing Google Cloud certificates.
+What the job does: You’re the "mechanic" under the hood of the H-E-B app. You make sure when someone clicks "order," the system actually processes it correctly and quickly.
+
+Jobs 2
+Company: Booz Allen Hamilton
+Job Title: Cybersecurity Analyst
+Education Required: A degree in IT or Cybersecurity.
+Experience Required: 1 to 3 years of experience watching for digital threats.
+Skills / Tools / Languages: Understanding how networks work, using Linux, and knowing how to use "detective" tools like Splunk.
+Certifications: CompTIA Security+ (This one is usually a deal-breaker for them).
+What the job does: You act as a digital security guard. You watch for hackers trying to get into government or military systems and stop them before they do damage.
+
+CER
+If I had to pick, I’d definitely go with the Cybersecurity Analyst role at Booz Allen Hamilton. The main reason is that I’m fascinated by the "high stakes" of protecting sensitive data, and this job requires a Security+ certification, which is a great goal to work toward. Also, the requirement for network monitoring skills sounds like a fun, hands-on puzzle to solve every day. This fits my personality because I’ve always been interested in how to keep things safe and how "bad actors" try to break rules. Ultimately, this career path matches my goal of working in a job that feels like I'm actually defending something important.

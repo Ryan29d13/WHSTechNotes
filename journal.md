@@ -63,3 +63,27 @@ What the job does: You act as a digital security guard. You watch for hackers tr
 
 CER
 If I had to pick, I’d definitely go with the Cybersecurity Analyst role at Booz Allen Hamilton. The main reason is that I’m fascinated by the "high stakes" of protecting sensitive data, and this job requires a Security+ certification, which is a great goal to work toward. Also, the requirement for network monitoring skills sounds like a fun, hands-on puzzle to solve every day. This fits my personality because I’ve always been interested in how to keep things safe and how "bad actors" try to break rules. Ultimately, this career path matches my goal of working in a job that feels like I'm actually defending something important.
+# March 23, 2026
+1. How I Chose & Performance
+I used a mix of team rankings (like KenPom) and expert picks. My bracket is doing okay, but like most people, a few early upsets in the first round busted my "perfect" streak.
+2. First Weekend Surprises
+The biggest shocker was No. 12 High Point beating No. 5 Wisconsin. Also, No. 11 VCU making a massive 19-point comeback against North Carolina was something nobody predicted!
+3. Using Data to Improve
+Data helps remove bias. Instead of picking a team because you like their colors, looking at offensive efficiency or strength of schedule gives you a more realistic look at how they actually play against tough opponents.
+4. Computers vs. Guessing
+A computer program can run thousands of simulations in seconds. It can process tiny details—like player injuries or travel fatigue—that a person might miss, helping it find the most likely winner based on math rather than a "gut feeling."
+5. Sports Tech Jobs
+If you like this kind of work, you could be a Sports Data Analyst for a pro team, a Data Scientist for a betting site like DraftKings, or a Software Engineer building the apps that track live game stats.
+Which upset from the first weekend hurt your bracket the most?
+# March 30, 2026
+Claim: Upsets happen because momentum and pressure can override season stats in a single-elimination game.
+Evidence: In the 2026 tournament, No. 11 VCU was down by 19 points but came back to beat No. 6 North Carolina. UNC was statistically the better team, but they panicked late in the game, leading to turnovers and missed shots.
+Reasoning: Data shows what a team usually does, but it can’t predict a "cold streak" or a team losing confidence. In a "win or go home" scenario, the psychological pressure causes humans to make mistakes that a computer model wouldn't expect.
+The Tech Side: Computers vs. Humans
+What computers struggle to predict:
+Injuries: A star player getting hurt mid-game changes everything instantly.
+Chemistry: How well teammates trust each other during a high-stress comeback.
+Crowd Noise: The impact of thousands of fans screaming during a final free throw.
+Building a better program:
+The Challenge: A program struggles with "outliers"—events that have never happened before (like a 19-point comeback).
+The Solution: To handle uncertainty, you could use simulations to run the game 10,000 times to see all possible outcomes. You could also give more "weight" to recent games rather than stats from four months ago to account for current momentum.

@@ -87,3 +87,5 @@ Crowd Noise: The impact of thousands of fans screaming during a final free throw
 Building a better program:
 The Challenge: A program struggles with "outliers"—events that have never happened before (like a 19-point comeback).
 The Solution: To handle uncertainty, you could use simulations to run the game 10,000 times to see all possible outcomes. You could also give more "weight" to recent games rather than stats from four months ago to account for current momentum.
+# April 20, 2026
+Ai music is not real music becuase a robot made it not a human being 

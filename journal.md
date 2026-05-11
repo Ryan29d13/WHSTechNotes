@@ -91,3 +91,6 @@ The Solution: To handle uncertainty, you could use simulations to run the game 1
 Ai music is not real music becuase a robot made it not a human being 
 # May 6, 2026
 I have put the lable on assignments that ai assisted in.
+#may 11, 2026 
+I say that my confidence went up, i cant beleive that the school year is ending so soon
+

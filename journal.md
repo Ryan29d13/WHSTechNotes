@@ -93,4 +93,5 @@ Ai music is not real music becuase a robot made it not a human being
 I have put the lable on assignments that ai assisted in.
 #may 11, 2026 
 I say that my confidence went up, i cant beleive that the school year is ending so soon
-
+# May 18, 2026
+if i had to discribe Axel to the cops, I would say they are the kind of person who would talk about musicals whenever she can
